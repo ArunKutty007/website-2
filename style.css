@@ -333,6 +333,9 @@ footer i {
   footer .grid {
     grid-template-columns: 1fr;
   }
+  .loruki .grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Mobile */
@@ -346,5 +349,8 @@ footer i {
   .header ul {
     background-color: rgba(0, 0, 0, 0.1);
     padding: 7px 10px;
+  }
+  footer {
+    padding: 10px 0;
   }
 }
